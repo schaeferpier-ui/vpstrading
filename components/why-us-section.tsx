@@ -8,7 +8,6 @@ import {
   Users,
   Wrench,
 } from 'lucide-react'
-import Image from 'next/image'
 import { whyUs } from '@/lib/site'
 import { Reveal } from '@/components/reveal'
 
