@@ -1,3 +1,0 @@
-# vpstrading
-Live site
-hi
